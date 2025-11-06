@@ -4,7 +4,9 @@
 <!-- [Définition](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/bi)  
 - -->
 
-<b><i>La Business Intelligence ou intelligence d’affaires en français, est un ensemble de technologies, processus et méthodologies permettant la collecte, l’analyse et la transformation des données brutes en informations significatives et utiles pour les prises de décisions en entreprise.</i></b><br><br></div>
+<!-- <b><i>La Business Intelligence ou intelligence d’affaires en français, est un ensemble de technologies, processus et méthodologies permettant la collecte, l’analyse et la transformation des données brutes en informations significatives et utiles pour les prises de décisions en entreprise.</i></b><br><br> -->
+La veille économique (BI) fait référence aux stratégies, technologies et outils utilisés par les organisations pour analyser les données et présenter des informations exploitables. La BI aide les entreprises à prendre des décisions éclairées en transformant les données brutes en informations pertinentes grâce à des outils de visualisation, de reporting et d’analyse tels que Power BI, Tableau et autres.
+</div>
 ___
 
 <br>
@@ -19,21 +21,19 @@ ___
 [Locker Studio](projects/sp98) <a href=""> <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Lokker Studio" align="left" height="20px"> </a>   -->
 
 <br><div align="center"><br>
-<a href="docs"><img src="assets/bi1.jpg" alt="Business Intelligence" width="400"></a><br><br><h2><b>Projets</b></h2>
-<h3 align="left">TP Power BI<a href="https://github.com/MiKL5/PowerBI"><img align="right" src="assets/powerBi.svg" alt="Power BI" height="48px"></a></h3></div> 
+<a href="docs"><img src="assets/bi1.jpg" alt="Business Intelligence" width="300"></a><br><br><h2><b>Projets</b></h2>
+<h3 align="left">Power BI<a href="https://github.com/MiKL5/PowerBI"><img align="right" src="assets/powerBi.svg" alt="Power BI" height="48px"></a></h3></div> 
 
 [Cinéma](https://github.com/MiKL5/PowerBI/tree/master/3_cinema)  
 [Création de rapport](https://github.com/MiKL5/PowerBI/tree/master/6_rapportCinema)  
 [Langage DAX](https://github.com/MiKL5/PowerBI/tree/master/8_tpDax)  
 [Chiffres d’affaires des ventes](https://github.com/MiKL5/PowerBI/blob/master/9_tpVentes)  
 [Analyse des ventes](https://github.com/MiKL5/PowerBI/blob/master/10_tpVentes1)  
-<br><br>
+<br>
+<h3><a href="projects/sp98">Autres projets</a></h3> 
+<!-- <a href="projects/sp98">Analyse et visualisation de données “Fr_carburants” <img src="https://www.gstatic.com/bricks/image/d1a2346b57ea1c97bc4f8f01f289616f45c33d66bcd5b1372252fce3533cae4a.svg" alt="Google Big Query" align="center" height="20px"> <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Lokker Studio" align="center" height="20px"> </a>   -->
 
-<h3>Autres projets</h3> 
-<a href="projects/sp98">Analyse et visualisation de données “Fr_carburants” <img src="https://www.gstatic.com/bricks/image/d1a2346b57ea1c97bc4f8f01f289616f45c33d66bcd5b1372252fce3533cae4a.svg" alt="Google Big Query" align="center" height="20px"> <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Lokker Studio" align="center" height="20px"> </a>  
-
-<!-- <br><div align="center"><h3><a href="docs" alt="Documentation">Documentation</a></h3><br> -->
-___
+<!-- <br><div align="center"><h3><a href="docs" alt="Documentation">Documentation</a></h3> --><br><br><hr>
 <div align="center"><h3><b>Contenu connexe</b></h3></div>
 
 🧠 [Data Science](https://github.com/MiKL5/DS)  
