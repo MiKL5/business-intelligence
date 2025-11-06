@@ -29,11 +29,11 @@ ___
 [Langage DAX](https://github.com/MiKL5/PowerBI/tree/master/8_tpDax)  
 [Chiffres d’affaires des ventes](https://github.com/MiKL5/PowerBI/blob/master/9_tpVentes)  
 [Analyse des ventes](https://github.com/MiKL5/PowerBI/blob/master/10_tpVentes1)  
-<br>
-<h3><a href="projects/sp98">Autres projets</a></h3> 
+<!-- <br> -->
+<!-- <h3><a href="projects/sp98">Autres projets</a></h3>  -->
 <!-- <a href="projects/sp98">Analyse et visualisation de données “Fr_carburants” <img src="https://www.gstatic.com/bricks/image/d1a2346b57ea1c97bc4f8f01f289616f45c33d66bcd5b1372252fce3533cae4a.svg" alt="Google Big Query" align="center" height="20px"> <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Lokker Studio" align="center" height="20px"> </a>   -->
 
-<!-- <br><div align="center"><h3><a href="docs" alt="Documentation">Documentation</a></h3> --><br><br><hr>
+<!-- <br><div align="center"><h3><a href="docs" alt="Documentation">Documentation</a></h3><br><br>--><hr>
 <div align="center"><h3><b>Contenu connexe</b></h3></div>
 
 🧠 [Data Science](https://github.com/MiKL5/DS)  
