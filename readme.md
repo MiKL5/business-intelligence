@@ -4,8 +4,7 @@
 <!-- [Définition](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/bi)  
 - -->
 
-<!-- <b><i>La Business Intelligence ou intelligence d’affaires en français, est un ensemble de technologies, processus et méthodologies permettant la collecte, l’analyse et la transformation des données brutes en informations significatives et utiles pour les prises de décisions en entreprise.</i></b><br><br> -->
-La veille économique (BI) fait référence aux stratégies, technologies et outils utilisés par les organisations pour analyser les données et présenter des informations exploitables. La BI aide les entreprises à prendre des décisions éclairées en transformant les données brutes en informations pertinentes grâce à des outils de visualisation, de reporting et d’analyse tels que Power BI, Tableau et autres.
+La BI (Business Intelligence) est l’ensemble des méthodes, technologies et pratiques permettant de collecter, préparer, analyser et présenter des données pour soutenir la prise de décision. Elle transforme des données brutes en informations exploitables via des rapports, tableaux de bord et visualisations, afin d’améliorer l’efficacité opérationnelle, la performance commerciale et la stratégie.
 </div><hr><br>
 
 [PostgreSQL](https://github.com/MiKL5/PostgreSQL) <a href="https://github.com/MiKL5/PostgreSQL"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" align="left" height="20px"> </a>  
