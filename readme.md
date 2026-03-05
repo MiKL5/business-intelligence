@@ -1,9 +1,6 @@
 <h1 align="center"><b><a href="https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/bi">Business intelligence</a></b> <a href="https://github.com/MiKL5/"><img src="assets/atomicBi.png" alt="Business intelligence" align="right" height="64px"></a></h1>
 <div align="center">
 
-<!-- [Définition](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/bi)  
-- -->
-
 La BI (Business Intelligence) est l’ensemble des méthodes, technologies et pratiques permettant de collecter, préparer, analyser et présenter des données pour soutenir la prise de décision. Elle transforme des données brutes en informations exploitables via des rapports, tableaux de bord et visualisations, afin d’améliorer l’efficacité opérationnelle, la performance commerciale et la stratégie.
 </div><hr><br>
 
@@ -33,7 +30,7 @@ La BI (Business Intelligence) est l’ensemble des méthodes, technologies et pr
 <div align="center"><h3><b>Contenu connexe</b></h3></div>
 
 🧠 [Data Science](https://github.com/MiKL5/DS)  
-🤖 [Intelligence artificielle](https://github.com/MiKL5/Artificial_Intelligence/)  
-🤖🧠 [Machine Learning](https://github.com/MiKL5/machineLearning)  
+🤖 [Intelligence artificielle](https://github.com/MiKL5/artificial-intelligence/)  
+🤖🧠 [Machine Learning](https://github.com/MiKL5/machine-learning)  
 <!-- 🤖📶 [IOT and AIoT](https://github.com/MiKL5/aiot)  -->
 <!-- 🤖 [Robotique](https://github.com/MiKL5/robotics)   -->
