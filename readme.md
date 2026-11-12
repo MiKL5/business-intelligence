@@ -13,8 +13,8 @@ La BI (Business Intelligence) est l’ensemble des méthodes, technologies et pr
 <!-- [Google Big Query](projects/sp98) <a href=""> <img src="https://www.gstatic.com/bricks/image/d1a2346b57ea1c97bc4f8f01f289620f45c33d66bcd5b1372252fce3533cae4a.svg" alt="Google Big Query" align="left" height="20px"> </a>  
 [Locker Studio](projects/sp98) <a href=""> <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Lokker Studio" align="left" height="20px"> </a>   -->
 
-<br><div align="center"><br>
-<a href="docs"><img src="assets/bi1.jpg" alt="Business Intelligence" width="300"></a><br><br><h2><b>Projets</b></h2>
+<br><div align="center"><!--<br>-->
+<a href="docs"><img src="assets/bi.webp" alt="Business Intelligence" width="800"></a><br><br><h2><b>Projets</b></h2>
 <h3 align="left">Power BI<a href="https://github.com/MiKL5/PowerBI"><img align="right" src="assets/powerBi.svg" alt="Power BI" height="48px"></a></h3></div> 
 
 [Cinéma](https://github.com/MiKL5/PowerBI/tree/master/3_cinema)  
