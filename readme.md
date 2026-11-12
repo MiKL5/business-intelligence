@@ -5,7 +5,7 @@ La BI (Business Intelligence) est l’ensemble des méthodes, technologies et pr
 </div><hr><br>
 
 [PostgreSQL](https://github.com/MiKL5/PostgreSQL) <a href="https://github.com/MiKL5/PostgreSQL"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" align="left" height="20px"> </a>  
-[SQL Server](https://github.com/MiKL5/SQLserver) <a href="https://github.com/MiKL5/SQLserver"> <img src="assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="left" height="20px"> </a>  
+[SQL Server](https://github.com/MiKL5/SQLserver) <a href="https://github.com/MiKL5/SQLserver"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" alt="SQL Server" align="left" height="20px"> </a>  
 [MongoDB](https://github.com/MiKL5/MongoDB) <a href="https://github.com/MiKL5/MongoDB"> <img src="assets/mongodb_original_logo_icon_146424.svg" alt="MongoDB" align="left" height="20px"> </a>  
 
 
